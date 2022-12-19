@@ -22,7 +22,6 @@
     "bootstrap": "^5.2.3",
     "cd-jquery-ui-custom": "^0.0.2",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.6.2",
-    "owl-carousel-2-beta": "^2.1.2"
+    "jquery": "^3.6.2"
   }
 }
