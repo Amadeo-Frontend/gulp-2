@@ -22,6 +22,7 @@
     "bootstrap": "^5.2.3",
     "cd-jquery-ui-custom": "^0.0.2",
     "font-awesome": "^4.7.0",
+    "gulp-htmlmin": "^5.0.1",
     "jquery": "^3.6.2"
   }
 }
